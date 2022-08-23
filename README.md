@@ -1,3 +1,7 @@
+# Note
+
+Moved to [stuysu/lostandfound.stuysu.org](https://github.com/stuysu/lostandfound.stuysu.org)
+
 # stuylostandfound
 Lost and Found: The Website V1.2
 
